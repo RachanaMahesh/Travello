@@ -1,2 +1,2 @@
 # Travello
-Travel website designed using the Travello theme from colorlib with Django backend
+Dynamic Travel website built with a tech stack that includes HTML, CSS, JavaScript, Django, and PostgreSQL for database management.
